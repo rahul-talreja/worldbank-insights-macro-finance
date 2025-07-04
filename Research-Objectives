@@ -1,0 +1,36 @@
+Research Objectives:
+How does a nation's socioeconomic indicators influence the volume of foreign direct investment (FDI) it receives, and what is the subsequent impact on its gross domestic product (GDP) growth?
+ 
+Time Series Analysis
+How do GDP per capita growth and employment rates change over time across different income-level countries?
+(Understanding economic trends across income groups can provide insights into FDI attractiveness.)
+How do seasonal patterns in trade balances impact GDP growth across different regions?(Trade balance fluctuations can influence investor confidence and capital inflows.)
+Hypothesis Testing
+Is there a significant difference in GDP growth between countries with high and low external debt? (T-Test)
+(Debt levels can impact investor confidence and subsequent GDP performance.)
+Do countries with higher social spending exhibit better economic stability? (F-Test)
+(Economic stability is a key factor influencing FDI decisions.)
+Multiple Linear Regression (MLR)
+What are the key predictors of foreign direct investment (FDI) inflows in developing economies?
+(Directly aligns with understanding which socioeconomic factors influence FDI.)
+How do inflation rate, trade balance, and public debt impact GDP per capita growth?
+(These economic factors can shape investor confidence and, in turn, GDP growth.)
+How do debt servicing costs and exchange rates influence investment inflows?
+(Understanding the macroeconomic conditions that affect FDI.)
+How does domestic and external debt impact GDP growth?
+(Debt levels can influence both investor decisions and economic growth trajectories.)
+Classification
+Can we classify countries into high-growth vs. low-growth economies based on GDP trends? (Logistic Regression)
+(Identifying economic patterns that could influence FDI attractiveness.)
+Can debt-to-GDP ratios and employment growth be used to predict whether a country is a developed, emerging, or developing economy? (Decision Tree)
+(Economic classification can help in analyzing how FDI varies across different development stages.)
+Clustering
+Are there distinct clusters of countries based on economic growth, public debt levels, and trade balance? (K-Means Clustering)
+(Grouping similar economies can provide insights into FDI trends.)
+Neural Networks
+Can we predict GDP growth based on debt levels? (ANN)
+(Understanding how debt influences GDP growth, which in turn affects FDI decisions.)
+Can a neural network model predict GDP growth more accurately than a traditional regression model?
+(More precise modeling of GDP growth to understand FDI impact.)
+ 
+
